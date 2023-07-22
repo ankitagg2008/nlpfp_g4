@@ -4,4 +4,4 @@ nltk
 fuzzywuzzy
 distance
 bs4
-BeautifulSoup
+BeautifulSoup4
