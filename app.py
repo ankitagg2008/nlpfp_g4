@@ -5,6 +5,7 @@ import pickle
 import smtplib
 from email.message import EmailMessage
 from PIL import Image
+from bs4 import BeautifulSoup
 
 # Load the saved model
 with open("model.pkl", "rb") as file:
